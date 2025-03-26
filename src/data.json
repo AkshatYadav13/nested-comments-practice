@@ -1,0 +1,144 @@
+[
+    {
+        "id": 1001,
+        "content": "AI is evolving rapidly, but do you think it will ever match human creativity?",
+        "votes": { "likes": 120, "dislikes": 15 },
+        "time": 1710028800000,
+        "replies": [
+            {
+                "id": 1002,
+                "content": "I believe AI can assist in creativity, but true originality comes from human experience.",
+                "votes": { "likes": 75, "dislikes": 5 },
+                "time": 1710115200000,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "id": 1003,
+        "content": "Remote work is great, but does it really improve productivity long-term?",
+        "votes": { "likes": 98, "dislikes": 20 },
+        "time": 1710297600000,
+        "replies": [
+            {
+                "id": 1015,
+                "content": "It depends on the person. Some thrive in remote work, others struggle without office structure.",
+                "votes": { "likes": 50, "dislikes": 8 },
+                "time": 1710384000000,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "id": 1004,
+        "content": "Self-driving cars are the future, but how do we ensure safety in extreme conditions?",
+        "votes": { "likes": 110, "dislikes": 12 },
+        "time": 1710643200000,
+        "replies": [
+            {
+                "id": 1016,
+                "content": "Regulations and AI ethics will play a key role, but there will always be unpredictable situations.",
+                "votes": { "likes": 65, "dislikes": 10 },
+                "time": 1710729600000,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "id": 1005,
+        "content": "The 4-day workweek sounds great, but is it really sustainable for all industries?",
+        "votes": { "likes": 85, "dislikes": 18 },
+        "time": 1710988800000,
+        "replies": [
+            {
+                "id": 1006,
+                "content": "It works well for knowledge jobs, but for healthcare and retail, it could be a challenge.",
+                "votes": { "likes": 60, "dislikes": 7 },
+                "time": 1711075200000,
+                "replies": []
+            },
+            {
+                "id": 1007,
+                "content": "Some companies have seen increased productivity. It depends on the nature of work.",
+                "votes": { "likes": 45, "dislikes": 4 },
+                "time": 1711161600000,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "id": 1008,
+        "content": "Should social media platforms be held responsible for misinformation?",
+        "votes": { "likes": 130, "dislikes": 30 },
+        "time": 1711477270000,
+        "replies": [
+            {
+                "id": 1017,
+                "content": "They should have fact-checking measures, but outright censorship is tricky.",
+                "votes": { "likes": 80, "dislikes": 20 },
+                "time": 1711477275000,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "id": 1009,
+        "content": "Cryptocurrency: The future of finance or just another bubble?",
+        "votes": { "likes": 95, "dislikes": 25 },
+        "time": 1711477280000,
+        "replies": [
+            {
+                "id": 1010,
+                "content": "It's a game-changer, but regulation will determine its future.",
+                "votes": { "likes": 60, "dislikes": 10 },
+                "time": 1711477290000,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "id": 1011,
+        "content": "Is climate change something that individuals can really influence?",
+        "votes": { "likes": 140, "dislikes": 15 },
+        "time": 1711477300000,
+        "replies": [
+            {
+                "id": 1018,
+                "content": "Governments and corporations have a bigger role, but individual choices matter too.",
+                "votes": { "likes": 85, "dislikes": 5 },
+                "time": 1711477305000,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "id": 1012,
+        "content": "Will quantum computing replace traditional computers in the next decade?",
+        "votes": { "likes": 75, "dislikes": 12 },
+        "time": 1711477310000,
+        "replies": [
+            {
+                "id": 1019,
+                "content": "Not entirely. It’s great for specific tasks but won’t replace regular computing soon.",
+                "votes": { "likes": 55, "dislikes": 7 },
+                "time": 1711477315000,
+                "replies": []
+            }
+        ]
+    },
+    {
+        "id": 1013,
+        "content": "Should college education be free for all?",
+        "votes": { "likes": 100, "dislikes": 35 },
+        "time": 1711477320000,
+        "replies": [
+            {
+                "id": 1014,
+                "content": "Education should be accessible, but funding has to come from somewhere.",
+                "votes": { "likes": 70, "dislikes": 10 },
+                "time": 1711477330000,
+                "replies": []
+            }
+        ]
+    }
+]

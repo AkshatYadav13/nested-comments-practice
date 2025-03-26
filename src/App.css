@@ -1,0 +1,116 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;   
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.main{
+    padding: 10px 10px;
+}
+
+
+/* add comment */
+.inp-comment{
+    position: relative;
+}
+textarea{
+    position: relative;
+    width:100%;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;   
+    height: 100px;
+    box-sizing: border-box;
+    padding: 10px;
+    padding-right: 35px;
+    outline: none;
+}
+#send{
+    position: absolute;
+    bottom: 10px;
+    right: 25px;
+}
+#close{
+    color: red;
+    position: absolute;
+    top: 5px;
+    right: 25px;
+}
+
+
+/* comment */
+.comment{
+    width: 100%;
+    position: relative;
+    border-bottom: 1px solid gray;
+}
+.comment p{
+    font-size: 18px;
+}
+.comment span{
+    color: rgb(87, 85, 85);
+    font-size: 15px;
+}
+
+.comment-action-wrap{
+    display: flex;
+    gap: 15px;
+}
+
+.comment-action-wrap button.active{
+    border: 2px solid white;
+}
+
+
+.comment-mini-details{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* comments */
+.comment-list{
+    background-color: lightblue;
+    margin-block: 10px;
+    padding-top: 5px;
+    padding-left: 25px;
+    padding-right: 10px;
+}
+
+/* control box */
+.control-box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 17px;
+    margin-block: 25px;
+}
+
+
+
+/*  */
+.icon{
+    cursor: pointer;
+}
+.btn{
+    padding: 6px 15px;
+    color: white;
+    border-radius: 8px;
+    margin-block: 15px;   
+    &:hover{
+        border: 2px solid white;
+        cursor: pointer;
+    }
+}
+.primary{
+    background-color: blue;
+    border: 2px solid blue;
+}
+.create{
+    background-color: goldenrod;
+    border: 2px solid goldenrod;
+}
+
+.destroy{
+    background-color: firebrick;
+    border: 2px solid firebrick;
+}
