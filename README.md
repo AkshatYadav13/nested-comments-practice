@@ -11,5 +11,4 @@ This is a mini practice project for implementing a nested comment system in Reac
 - **Like & Dislike**: Comments can be upvoted or downvoted.
 - **Sort Comments**: Sort based on likes, dislikes, or time.
 
-## Installation
 
